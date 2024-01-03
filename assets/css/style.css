@@ -900,7 +900,7 @@ section .container {
 .portfolio .portfolio-wrap .portfolio-links a {
   color: #fff;
   margin: 0 2px;
-  font-size: 28px;
+  font-size: 60px;
   display: inline-block;
   transition: 0.3s;
 }
